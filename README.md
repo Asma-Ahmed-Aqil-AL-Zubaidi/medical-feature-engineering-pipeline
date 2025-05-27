@@ -1,5 +1,4 @@
-# medical-feature-engineering-pipeline
-This repository presents a full end-to-end feature engineering pipeline applied to a real-world medical dataset
+
 #  Medical Feature Engineering Pipeline
 
 This repository contains a professional, end-to-end **feature engineering pipeline** applied to a large-scale real-world **medical dataset** consisting of:
